@@ -9,7 +9,7 @@ O `Pydantic-101` é um projeto que demonstra a validação de dados usando a bib
 Para começar, clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-username/Pydantic-101.git
+git clone https://github.com/lvgalvao/Pydantic-101.git
 ```
 
 Navegue até o diretório do projeto:
