@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 28,
+        "salary": 55000.5,
+        "is_employee": true,
+        "department": "IT",
+        "joining_date": "2022-01-15",
+        "percentage_value": 15.5
+    },
+    {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "age": 105,
+        "salary": 2000.5,
+        "is_employee": true,
+        "department": "HR",
+        "joining_date": "2020-05-15",
+        "percentage_value": 110.0
+    },
+    {
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "age": 22,
+        "salary": 30000.0,
+        "is_employee": false,
+        "department": "FINANCE",
+        "joining_date": "2019-10-01",
+        "percentage_value": 50.0
+    },
+    {
+        "name": "David",
+        "email": "david@invalidemail",
+        "age": 25,
+        "salary": 40000.0,
+        "is_employee": true,
+        "department": "IT",
+        "joining_date": "2018-03-01",
+        "percentage_value": 55.0
+    },
+    {
+        "name": "Eva",
+        "email": "eva@example.com",
+        "age": 17,
+        "salary": 60000.0,
+        "is_employee": true,
+        "department": "SALES",
+        "joining_date": "2020-11-11",
+        "percentage_value": 60.0
+    },
+    {
+        "name": "Frank",
+        "email": "frank@example.com",
+        "age": 40,
+        "salary": 70000.0,
+        "is_employee": false,
+        "department": "FINANCE",
+        "joining_date": "2021-12-12",
+        "percentage_value": 65.0
+    },
+    {
+        "name": "Grace",
+        "email": "grace@example.com",
+        "age": 55,
+        "salary": 80000.0,
+        "is_employee": true,
+        "department": "IT",
+        "joining_date": "2022-07-05",
+        "percentage_value": 70.0
+    },
+    {
+        "name": "Hannah",
+        "email": "hannah@example.com",
+        "age": 35,
+        "salary": 90000.0,
+        "is_employee": false,
+        "department": "HR",
+        "joining_date": "2020-08-20",
+        "percentage_value": 75.0
+    },
+    {
+        "name": "Ian",
+        "email": "ian@example.com",
+        "age": 50,
+        "salary": 45000.0,
+        "is_employee": true,
+        "department": "SALES",
+        "joining_date": "2019-04-30",
+        "percentage_value": 80.0
+    },
+    {
+        "name": "Jack",
+        "email": "jack@example.com",
+        "age": 38,
+        "salary": 12000.0,
+        "is_employee": true,
+        "department": "IT",
+        "joining_date": "2017-06-15",
+        "percentage_value": 85.0
+    },
+    {
+        "name": "Kathy",
+        "email": "kathy@example.com",
+        "age": 45,
+        "salary": 95000.0,
+        "is_employee": false,
+        "department": "FINANCE",
+        "joining_date": "2023-01-15",
+        "percentage_value": -5.0
+    },
+    {
+        "name": "Liam",
+        "email": "liam@example.com",
+        "age": 28,
+        "salary": 20000.0,
+        "is_employee": true,
+        "department": "SALES",
+        "joining_date": "2022-05-09",
+        "percentage_value": 15.0
+    },
+    {
+        "name": "Monica",
+        "email": "monica@example.com",
+        "age": 32,
+        "salary": 48000.0,
+        "is_employee": true,
+        "department": "IT",
+        "joining_date": "2021-07-07",
+        "percentage_value": 20.0
+    },
+    {
+        "name": "Nathan",
+        "email": "nathan@example.com",
+        "age": 24,
+        "salary": 3000.0,
+        "is_employee": true,
+        "department": "HR",
+        "joining_date": "2023-02-28",
+        "percentage_value": 25.0
+    },
+    {
+        "name": "Oliver",
+        "email": "oliver@example.com",
+        "age": 60,
+        "salary": 15000.0,
+        "is_employee": true,
+        "department": "SALES",
+        "joining_date": "2019-08-11",
+        "percentage_value": 30.0
+    },
+    {
+        "name": "Penny",
+        "email": "penny@example.com",
+        "age": 23,
+        "salary": 12000.0,
+        "is_employee": true,
+        "department": "IT",
+        "joining_date": "2020-01-01",
+        "percentage_value": 35.0
+    },
+    {
+        "name": "Quinn",
+        "email": "quinn@example.com",
+        "age": 50,
+        "salary": 25000.0,
+        "is_employee": false,
+        "department": "FINANCE",
+        "joining_date": "2021-03-15",
+        "percentage_value": 90.0
+    },
+    {
+        "name": "Rachel",
+        "email": "rachel@example.com",
+        "age": 36,
+        "salary": 65000.0,
+        "is_employee": true,
+        "department": "SALES",
+        "joining_date": "2022-10-05",
+        "percentage_value": 95.0
+    },
+    {
+        "name": "Steve",
+        "email": "steve@example.com",
+        "age": 48,
+        "salary": 10000.0,
+        "is_employee": false,
+        "department": "HR",
+        "joining_date": "2023-04-25",
+        "percentage_value": 100.5
+    },
+    {
+        "name": "Tina",
+        "email": "tina@example.com",
+        "age": 22,
+        "salary": 7000.0,
+        "is_employee": true,
+        "department": "LINKEDIN",
+        "joining_date": "2021-12-15",
+        "percentage_value": 5.0
+    }
+]
