@@ -1,5 +1,9 @@
 # Pydantic-101: Garantindo a Qualidade dos Dados
 
+## Case
+
+Link: [Data Quality Com Pydantic](https://www.linkedin.com/posts/lucianovasconcelosf_data-quality-com-pydantic-activity-7105912270722887681-5tuc?utm_source=share&utm_medium=member_desktop)
+
 O `Pydantic-101` é um projeto que demonstra a validação de dados usando a biblioteca Pydantic em Python. Ele simula um ETL simples, lendo registros de um arquivo JSON e salvando-os em um CSV após validação.
 
 ## Instalação
